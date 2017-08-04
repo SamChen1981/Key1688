@@ -9,5 +9,6 @@
   <table>
     <tr>
         <td>Foo</td>
+        <td>GG</td>
     </tr>
 </table>
