@@ -1,14 +1,13 @@
 # Key1688
 
-<ol>
-  <li>de</li>
-  <li>da</li>
-  <li>asda</li>
-  </ol>
-  
+##抓取阿里巴巴1688商品购物平台，并使设计成gui，导出成excel表格##
+
+*********************
+
+  
   <table>
     <tr>
-        <td>Foo</td>
-        <td>GG</td>
+        <td>抓取数据</td>
+        <td>GUI的设计</td>
     </tr>
 </table>
